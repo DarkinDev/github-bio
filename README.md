@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Java, Javascript,...**
 
-- 👨‍💻 All of my projects are available at [[working on]]([working on])
-
 - 📫 How to reach me **giahuy.nguyen.wrk@gmail.com**
 
 - ⚡ Fun fact **I'm creative, great problem solving, leadership skill.**
